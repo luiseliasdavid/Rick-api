@@ -9,6 +9,6 @@ const {
 const router = Router();
 
 
-router.get("/chalenge", chalenge)
+router.get("/solucion", chalenge)
 
 module.exports = router;
